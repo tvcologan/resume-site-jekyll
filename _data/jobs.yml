@@ -1,3 +1,16 @@
+- title: Principal Software Engeneer
+  company: Grupo Numero 1
+  location: Tenerife, Spain.
+  period: April 2021 - Present
+  duties:
+    - description: Designed project architecture for a marketplace web application.
+    - description: Researched project requirements and Implemented data models for a MongoDB database.
+    - description: Implemented a REST API in TypeScript to serve the front-end app.
+    - description: Incorporated Elasticsearch to implement the search engine.
+    - description: Configured the CI/CD pipeline with Jest to handle tests and Github actions to deploy the services to integration and production environments.
+    - description: Implemented the front-end application with React and Redux in functional components and using hooks.
+    - description: Integrated with the organization's existing systems and with various logistics operators like Seur and Nacex among others.
+
 - title: Principal React/React Native developer
   company: daytrips.travel
   location: Tenerife, Spain.
@@ -54,7 +67,7 @@
   company: Multiple hotels / houses.
   url: https://haciendacuatroventanas.com
   location: Tenerife, Spain
-  period: "2018-Present"
+  period: "2018 - Present"
   duties:
     - description: Network / Infrastructure
     - description: TCP/IP, DHCP, Port forwarding, DNS, Subnet configuration, cabling, end-device configuration.
