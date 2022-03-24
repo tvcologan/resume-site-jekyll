@@ -1,20 +1,20 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Nathan Schepers
-email: nathan.schepers@protonmail.com
-description: Nathan Schepers - Resume
+title: Tomás Vich Cólogan
+email: tvcologan@gmail.com
+description: Tomás Vich Cólogan - Resume
 baseurl:
-url: "http://nathanschepers.ca/"
-name: Nathan Schepers
+url: "https://tvcologan.com/resume"
+name: Tomás Vich Cólogan
 job: software engineer
 location: Canary Islands, Spain (Atlantic/Canary)
 languages:
 twitter_username:
 github_username:
 codepen_username:
-linkedin_username: nathanschepers
-email_address: nathan.schepers@protonmail.com
+linkedin_username: tomas-vich-cologan-6b0a73140
+email_address: tvcologan@gmail.com
 
 # Build settings
 markdown: kramdown
