@@ -1,7 +1,16 @@
+- title: Project manager
+  company: Grupo Numero 1
+  location: Tenerife, Spain.
+  period: November 2022 - Present
+  duties:
+    - description: Research and implement SaaS solutions to migrate the current systems and tool to newer more efficient and updated software.
+    - description: Contact software providers and asses the usecases for their products.
+    - description: Migrate all current systems to a Cloud based infrastructure.
+
 - title: Principal Software Engeneer
   company: Grupo Numero 1
   location: Tenerife, Spain.
-  period: April 2021 - Present
+  period: April 2021 - November 2022
   duties:
     - description: Designed project architecture for a marketplace web application.
     - description: Researched project requirements and Implemented data models for a MongoDB database.
